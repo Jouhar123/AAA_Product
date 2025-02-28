@@ -3,7 +3,7 @@
 
 const Features=()=>{
     return (
-        <div className="text-white text-2xl text-pretty">
+        <div className="text-white">
               Router is a five port gigabit ethernet Router for locations where
           wireless connectivity is not required. The device has a USB 2.0 port
           and a SFP port for adding optical fiber connectivity. The ports 2-5
